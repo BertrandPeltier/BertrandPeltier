@@ -81,7 +81,7 @@ Missions :
   - Déploiement de l'API sur une instance EC2 d'AWS
 Formateur, formateur, formateur et formateur + une aventure humaine entre 4 personnes qui se connaissaient très peu et qui sont maintenant amis !!
 
-[Un apperçu ici, à 23:51](https://www.youtube.com/watch?v=fV3c4FJqlBM)
+[Un apperçu ici](https://youtu.be/fV3c4FJqlBM?t=1437)
 
 #### La création du site web de ma Cherie
 Après de multiples versions et tests avec Wordpress, rien ne lui plaisait... J'ai donc pris l'option "from scratch", un fichier HTML, un peu de CSS pour habiller (à l'aide d'un framework sympa : [bulma.io](https://bulma.io/), du JS pour animer, et voilà le résulat :
