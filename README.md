@@ -6,43 +6,50 @@ Pourquoi le JavaScript ? J'aime son côté "fullstack", pouvoir coder aussi bien
 
 Un puissant langage, mais qui seul n'épanche pas ma soif de programmation.
 
-Un ptit flash-back s'impose :
-- Collège, sous l'impulsion de mon père : "t'y connais rien en ordinateur" :
+<details>
+<summary>Un petit flash-back de mes premiers pas en programmation !!</summary>
+
+  
+- Collège, sous l'impulsion de mon père : *"t'y connais rien en ordinateur"* :
 ```js
 {
   armeDuCrime: "QBasic",
-  supportDuCrime: "Amstrad PC1512",
-  faitDArme: "Tentative de codage d'un jeu de baston, genre Mortal Combat",
+  faitDArme: "Sur l'Amstrad PC1512 de mon père : Tentative de codage d'un jeu de baston, genre Mortal Combat",
   resultat: "2 personnages, 2 mouvements (punch & high kick) codés pixel par pixel"
 }
 ```
+  
 - Lycée :
 ```js
 {
-  armeDuCrime: "Dos",
-  LieuDuCrime: "Lycèe de Fumel"
-  faitDArme: "Coder un petit programme simulant le formatage du disque dur du PC du CDI",
-  resultat: () => heureDeColle += 2;
+  armeDuCrime: "MS-Dos",
+  faitDArme: "Sur le seul et unique PC du CDI (bienvenu en 1996 !!) : Coder un petit programme simulant le formatage du disque dur",
+  resultat: () => { heureDeColle += 2 }
 }
 ```
+  
 - Prépa bio :
 ```js
 {
   armeDuCrime: "Turbo Pascal",
-  faitDArme: "Coder un programme de loto et comparer les résultats avec les probabilités mathématiques",
+  faitDArme: "Coder un programme de tirage du loto et comparer les résultats avec les probabilités mathématiques",
   resultat: "la fonction 'random' ne génère pas des nombres purement aléatoires au sens mathématique"
 }
 ```
+  
 - Quelque part entre 2010 et 2015 :
 ```js
 {
   armeDuCrime: "VBA",
-  cible: "Desert Operation (jeu par navigateur)"
+  cible: "Desert Operation (jeu par navigateur)",
   faitDArme: "Coder un automate dont la fonction est de se connecter au compte, et mettre en banque l'or",
   evolution: "Etendre l'automate pour se connecter à plusieurs comptes de manière aléatoire pour feinter le ban des modos",
   resultat: "Multiples ban"
 }
 ```
+</details>
+
+
 - A partir de 2020 :
 cf. mes répo ;-)
 
